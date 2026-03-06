@@ -1,0 +1,1 @@
+{\n  "name": "smart-contract-deployer",\n  "version": "1.0.0",\n  "description": "A repository for deploying smart contracts",\n  "main": "index.js",\n  "scripts": {\n    "test": "echo 'Error: no test specified' && exit 1"\n  },\n  "author": "Thomasyoung113",\n  "license": "ISC"\n}
